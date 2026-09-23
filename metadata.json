@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Git Identity Quick-Setup XxFlaxX (BY:XxDeexX)",
+  "description": "Instantly configure your global Git username and email address with a single, simple command.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
